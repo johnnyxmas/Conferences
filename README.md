@@ -33,7 +33,7 @@ Currently(ish) active CfP events :star: STARRED :star:.
 
 |Name|Con Date|Location|CFP Window|Travel|Note|
 |------|------|------|------|------|------|
-|[NDC {Security}](https://ndc-security.com)|2-5 Mar, 2026|Oslo, Norway|Jul- Sep |Yes|Severity focused Norwegian Developers Conference, .NET and Agile Devs|
+|[NDC {Security}](https://ndc-security.com)|2-5 Mar, 2026|Oslo, Norway|Jul- Sep |Yes|Security-focused Norwegian Developers Conference, .NET and Agile Devs|
 |:star:[NDC {London}](https://ndclondon.com):star:|26-30 Jan, 2026|London, England|May- 7 Sep, 2025|Yes|Norwegian Developers Conference, .NET and Agile Dev Focus|
 |[RuhrSec](https://www.ruhrsec.de)|20-21 Feb, 2025|Bochum, Germany|29 Aug -10 Nov, 2024|Yes||
 |:star:[HackCon](https://www.hackcon.org/):star:|11-12 Feb, 2026|Oslo, Norway|- 15 Dec, 2025|Yes||
